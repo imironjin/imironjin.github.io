@@ -20,7 +20,7 @@ url:                   https://imironjin.github.io
 lang:                  ko-KR, en-US
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 개발자 되고 싶은 컴공
+title:                 개발자를 꿈꾸는 컴공
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
